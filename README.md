@@ -13,11 +13,13 @@ A reusable OpenClaw skill for turning one book cover and one core hook into a co
 - ready-to-publish launch packs
 
 ## Included Files
-- `SKILL.md` ? skill instructions and usage rules
-- `scripts/scaffold_launch_pack.py` ? create a clean launch project structure
-- `references/openclaw-book-launch-tutorial.md` ? full workflow tutorial
-- `assets/OpenClaw-Book-Launch-Tutorial.pdf` ? tutorial PDF version
-- `references/case-study-openclaw-book.md` ? example case study from the OpenClaw book project
+- `SKILL.md` - skill instructions and usage rules
+- `scripts/scaffold_launch_pack.py` - create a clean launch project structure
+- `references/openclaw-book-launch-tutorial.md` - full workflow tutorial (EN)
+- `references/openclaw-book-launch-tutorial-zh.md` - full workflow tutorial (ZH)
+- `assets/OpenClaw-Book-Launch-Tutorial.pdf` - tutorial PDF version (EN)
+- `assets/OpenClaw-Book-Launch-Tutorial-ZH.pdf` - tutorial PDF version (ZH)
+- `references/case-study-openclaw-book.md` - example case study from the OpenClaw book project
 
 ## Best Use Cases
 Use this skill when you want to:

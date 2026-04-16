@@ -41,13 +41,15 @@ python scripts/scaffold_launch_pack.py <target-project-dir>
 
 ## References
 
-Read `references/openclaw-book-launch-tutorial.md` when you need the full end-to-end playbook, including:
+Read `references/openclaw-book-launch-tutorial.md` when you need the full end-to-end playbook in English, including:
 - creative sequence
 - poster logic
 - video workflow
 - people-holding-book ad directions
 - brand vs conversion split
 - Amazon packaging logic
+
+Read `references/openclaw-book-launch-tutorial-zh.md` when you want the same workflow in Chinese.
 
 Read `references/case-study-openclaw-book.md` when you want a concrete example of the workflow applied to a real project.
 
