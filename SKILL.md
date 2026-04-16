@@ -49,6 +49,8 @@ Read `references/openclaw-book-launch-tutorial.md` when you need the full end-to
 - brand vs conversion split
 - Amazon packaging logic
 
+Read `references/case-study-openclaw-book.md` when you want a concrete example of the workflow applied to a real project.
+
 ## People-Holding-Book Concept Rule
 
 Use celebrity-level energy, not exact real celebrity endorsement, unless the user explicitly confirms legal/authorized usage.
